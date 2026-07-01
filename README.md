@@ -54,7 +54,7 @@ Content Creator • Influencer • Brand Ambassador
 
 <div class="hero-image">
 
-<img src="assets/oyindamola.jpg">
+<img src="assets/IMG_0844.jpg">
 
 </div>
 
@@ -80,7 +80,7 @@ I love connecting with audiences through creativity and authenticity.
 
 <div class="gallery">
 
-<img src="assets/oyindamola.jpg">
+<img src="assets/IMG_0834.jpg">
 
 </div>
 
